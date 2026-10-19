@@ -1,4 +1,4 @@
-# Unity 6 CI/CD Boilerplate with GitHub Actions
+# Unity 6 CI/CD Boilerplate with GitHub Actions 
 
 A Unity 6000.x project that teaches you proper CI/CD on GitHub:
 
